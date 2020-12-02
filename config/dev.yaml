@@ -1,0 +1,7 @@
+db:
+  hostname: 62.234.11.179
+  port: 3306
+  username: checklist
+  password: Checklist.com@_00..
+  dbname: checklist
+addr: ":8080"
